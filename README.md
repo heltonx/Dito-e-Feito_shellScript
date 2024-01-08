@@ -4,6 +4,7 @@ De modo análogo aos Katas no Karatê, os Dito-e-Feitos são sequências de ativ
 O Dito-e-Feito a seguir vai do simples ao complexo na prática do shell script. É baseado nas aulas práticas no Termux com o amigo "Free"
 
 ================================================================
+
 Item 1
 aquecimento
 diferença entre o nano (e outros editores de texto) e o touch
