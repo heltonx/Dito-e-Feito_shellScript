@@ -1,7 +1,7 @@
 # Dito-e-Feito_shellScript
 De modo análogo aos Katas no Karatê, os Dito-e-Feitos são sequências de atividades visando exercitar o conhecimento em uma determinada tecnologia, do comando mais simples até uma arquiteturação mais complexa, visando melhorar os reflexos no desempenho e na memorização da tecnologia. 
 
-O Dito-e-Feito a seguir vai do simples ao complexo na prática do shell script. É baseado nas aulas práticas no Termux com o amigo "Free"
+O Dito-e-Feito a seguir vai do simples ao complexo na prática do shell script, com foco em TERMUX. É baseado nas aulas práticas no Termux com o amigo "Free"
 
 ================================================================
 
