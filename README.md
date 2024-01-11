@@ -29,6 +29,7 @@ minha_funcao () { echo "sou uma função"; "por hoje é só";}
 minha_funcao
 
 ================================================================
+
 Item 3
 
 first:
