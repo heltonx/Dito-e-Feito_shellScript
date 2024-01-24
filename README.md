@@ -93,4 +93,18 @@ chmod 777 arquivo (dont do the 777 command everytime, but just in this case)
 
 ================================================================
 
+Dito 5
 
+-Create a file called countargs.sh
+
+#COPY CODE FROM HERE
+#! /bin/bash
+#Purpose: Counting given positional parameters
+#Start
+echo "You current given parameters are: $#"
+
+#END OF THE CODE TEXT
+
+-Execute at your bash the following command:
+
+$ sh countargs.sh hi I Am Tonho
